@@ -11,7 +11,7 @@ Any action on the form causing a new render / display the screen.
 ## Procedure:
 1. Specify and input/submit task.
 2. Green button - to mark completed task
-3. Red Button - to remove completed task from the list.
+3. Red Button - to delete completed task from the list.
 
 ## Tools Used:
 - HTML - Living Standard,
