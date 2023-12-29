@@ -2,6 +2,8 @@
 ## Demo
 https://jacekdu.github.io/to_do_list/
 
+![] images/animation.gif
+
 ## Description:
 *under construction*
 
