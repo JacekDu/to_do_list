@@ -5,10 +5,13 @@ https://jacekdu.github.io/to_do_list/
 ![](images/animation.gif)
 
 ## Description:
-*under construction*
+You can built a list of tasks and play with them.
+Any action on the form causing a new render / display the screen.
 
 ## Procedure:
-**under construction**
+1. Specify and input/submit task.
+2. Green button - to mark completed task
+3. Red Button - to remove completed task from the list.
 
 ## Tools Used:
 - HTML - Living Standard,
@@ -16,4 +19,4 @@ https://jacekdu.github.io/to_do_list/
 - Javascript - ECMAScript 2020,
 - BEM convention,
 - Normalise.css,
-- GIF - ScreenToGif
+- GIF - ScreenToGif to record the demo animation.
