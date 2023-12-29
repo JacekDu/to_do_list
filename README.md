@@ -9,9 +9,9 @@ https://jacekdu.github.io/to_do_list/
 **under construction**
 
 ## Tools Used:
-HTML - Living Standard,
-CSS,
-Javascript - ECMAScript 2020,
-BEM convention,
-Normalise.css,
-GIF - ScreenToGif
+- HTML - Living Standard,
+- CSS,
+- Javascript - ECMAScript 2020,
+- BEM convention,
+- Normalise.css,
+- GIF - ScreenToGif
